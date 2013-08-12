@@ -1,3 +1,3 @@
-# README
+# DEPRECATED
 
-Please refer to the https://github.com/cmlh/OWASP-Top-Ten/wiki for further information.
+The 2013 Release is available from https://github.com/cmlh/OWASP-Top-Ten-2013
